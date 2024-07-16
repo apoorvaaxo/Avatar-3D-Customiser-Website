@@ -1,0 +1,131 @@
+/* Navigation Bar Styles */
+.navbar {
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+ /* Set background color to transparent */
+}
+
+.navbar-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-item {
+  display: inline;
+}
+
+.nav-link {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.nav-link:hover {
+  /* background-color: #ddd; */ /* Commented out to remove the background color */
+  color: black;
+}
+
+
+/* Home Component Styles */
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* background: linear-gradient(to right, #ff7e5f, #feb47b); */
+  background-color: #000000; /* Set a solid color background instead */
+  padding-top: 50px;
+}
+ad-text {
+  font-family: 'Bangers', sans-serif;
+  letter-spacing: 0.05em;
+  font-size: 10rem;
+  color: white;
+  margin: 0;
+}
+
+.home-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.max-w-md {
+  max-width: 28rem;
+}
+
+.font-normal {
+  font-weight: normal;
+}
+
+.text-gray-600 {
+  color: #718096;
+}
+
+.text-base {
+  font-size: 1rem;
+}
+
+/* Custom Button Styles */
+.w-fit {
+  width: fit-content;
+}
+
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.py-2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.text-sm {
+  font-size: 0.875rem;
+}
+
+/* Option Card Styles */
+.options-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.option-card {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.option-card:hover {
+  transform: scale(1.1);
+}
+
+.option-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.option-title {
+  margin-top: 10px;
+  font-size: 1rem;
+  font-weight: bold;
+}
