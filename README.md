@@ -82,11 +82,6 @@ In summary, this project empowers users to express themselves creatively through
 IMPORTANT NOTE : 
 The frontend of the application works as intended. To ensure the backend functionality works, you need to add your own OpenAI API key.The AI Picker functionality requires a valid, paid OpenAI API subscription to generate AI-designed patterns and logos.
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - **React.js**: For building the user interface.
