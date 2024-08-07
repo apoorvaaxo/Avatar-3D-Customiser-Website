@@ -1,9 +1,9 @@
 
-# 3D Swag Customization App
+# AVATAR : 3D Customiser Website
 
 ## Overview
 
-Our 3D Swag Customization App leverages React.js and Three.js for immersive 3D personalization. Users can interactively rotate and zoom their swag items for a realistic preview. Key features include:
+AVATAR : 3D Customiser Website leverages React.js and Three.js for immersive 3D personalization. Users can interactively rotate and zoom their swag items for a realistic preview. Key features include:
 
 - Extensive color customization.
 - Seamless integration of custom logos into 3D models.
@@ -15,7 +15,7 @@ Whether for personal, promotional, or business use, our app provides a versatile
 
 ## User Interface
 
-1. **‘Customize It’ Button:**
+1. ‘Customize It’ Button:
    - Users are encouraged to start customizing their swag with a prominent "Customize It" button.
 
 2. **AI Picker Component:**
