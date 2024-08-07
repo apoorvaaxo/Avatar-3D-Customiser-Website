@@ -8,7 +8,7 @@ import CameraRig from './CameraRig';
 
 const CanvasModel = () => {
   return (
-  <div className="w-full h-screen flex justify-center items-center bg-black">
+  <div className="w-full h-screen flex justify-center items-center bg-gray">
     <Canvas
       shadows
       camera={{ position: [0, 0, 0], fov: 25 }}

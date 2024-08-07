@@ -28,7 +28,7 @@ const Home = () => {
           <motion.div className="home-content" {...headContainerAnimation}>
               <motion.div {...headTextAnimation}>
                 {/* Apply style for white text color here */}
-                <h1 className="head-text" style={{ fontFamily: 'Bangers, sans-serif', letterSpacing: '0.05em', fontSize: '15rem', color: 'white' }}>
+                <h1 className="head-text" style={{ fontFamily: 'Bangers, sans-serif', letterSpacing: '0.05em', fontSize: '15rem', color: '#fff' }}>
                   AVATAR <br className="xl:block hidden" />
                 </h1>
               </motion.div>
@@ -36,9 +36,10 @@ const Home = () => {
               {...headContentAnimation}
               className="flex flex-col gap-5"
             >
-              <p className="max-w-md font-normal text-gray-600 text-base">
-              Create your unique and exclusive shirt with our brand-new 3D customization tool. <strong>Unleash your imagination</strong>{" "} and define your own style.
-              </p>
+             <p className="max-w-md font-normal text-white text-base">
+  Create your unique and exclusive shirt with our brand-new 3D customization tool. <strong>Unleash your imagination</strong>{" "} and define your own style.
+</p>
+
 
               <CustomButton 
                 type="filled"
@@ -48,6 +49,7 @@ const Home = () => {
               />
             </motion.div>
           </motion.div>
+          
         </motion.section>
       )}
     </AnimatePresence>

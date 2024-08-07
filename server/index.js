@@ -1,8 +1,11 @@
-
-const express = require('express');
-const cors = require('cors');
-const dotenv = require('dotenv');
-const dalleRoutes = require('./routes/dalle.routes.js'); // Ensure this path is correct
+import express from 'express';
+import * as dotenv from 'dotenv';
+// const express = require('express');
+import cors from 'cors';
+// const cors = require('cors');
+// const dotenv = require('dotenv');
+import dalleRoutes from './routes/dalle.routes.js';
+// const dalleRoutes = require('./routes/dalle.routes.js'); // Ensure this path is correct
 dotenv.config(); // Load environment variables
 
 
