@@ -44,12 +44,12 @@ In summary, this project empowers users to express themselves creatively through
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/3d-swag-customizer.git
+   git clone https://github.com/yourusername/Avatar-3D-Customiser-Webiste.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd 3d-swag-customizer
+   cd Avatar-3D-Customiser-Webiste
    ```
 
 3. **Install Dependencies:**
@@ -64,9 +64,6 @@ In summary, this project empowers users to express themselves creatively through
 
    The app will be available at `http://localhost:3000`.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue to discuss your proposed changes.
 
 ## License
 
