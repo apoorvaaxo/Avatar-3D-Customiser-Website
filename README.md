@@ -62,7 +62,7 @@ In summary, this project empowers users to express themselves creatively through
    npm start
    ```
 
-   The app will be available at `http://localhost:3000`.
+   The app will be available at `http://localhost:5173`.
 
 
 ## License
