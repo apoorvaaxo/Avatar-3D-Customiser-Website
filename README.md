@@ -32,13 +32,13 @@ Whether for personal, promotional, or business use, our app provides a versatile
 
 ## Purpose
 
-Our project aims to revolutionize digital swag customization by providing a user-friendly platform where anyone can create personalized swag items. Technologies like React.js and Three.js enable an interactive 3D environment where users can easily customize swag items, such as shirts, with various colors and uploaded logos. 
+This project aims to revolutionize digital Tshirt customization by providing a user-friendly platform where anyone can create personalized Tshirts. Technologies like React.js and Three.js enable an interactive 3D environment where users can easily customize swag items, such as shirts, with various colors and uploaded logos. 
 
 The app offers realistic previews of designs from different angles, enhancing the customization experience. Integration with OpenAI provides advanced AI features for generating unique designs and patterns, allowing users to unleash their creativity beyond traditional customization options.
 
 My goal is to ensure the app is accessible and easy to use across different devices, providing a hassle-free customization process for everyone.
 
-In summary, the 3D Swag Customization App empowers users to express themselves creatively through personalized digital swag. By combining innovative technology with user-friendly design, we set new standards in swag customization and enjoyment in the digital world.
+In summary, this project empowers users to express themselves creatively through personalized digital swag. By combining innovative technology with user-friendly design, we set new standards in swag customization and enjoyment in the digital world.
 
 ## Installation
 
