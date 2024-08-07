@@ -80,7 +80,7 @@ In summary, this project empowers users to express themselves creatively through
    The app will be available at `http://localhost:5173`.
    
 IMPORTANT NOTE : 
-To ensure the backend functionality works, you need to add your own OpenAI API key. Note that the OpenAI API requires a paid subscription. The app will only operate correctly if you have a valid API key.
+The frontend of the application works as intended. To ensure the backend functionality works, you need to add your own OpenAI API key.The AI Picker functionality requires a valid, paid OpenAI API subscription to generate AI-designed patterns and logos.
 
 
 ## License
