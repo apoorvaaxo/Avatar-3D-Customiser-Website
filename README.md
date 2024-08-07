@@ -1,6 +1,3 @@
-Here’s how you can structure the README for your "3D Swag Customization App" using the content you provided:
-
----
 
 # 3D Swag Customization App
 
@@ -39,7 +36,7 @@ Our project aims to revolutionize digital swag customization by providing a user
 
 The app offers realistic previews of designs from different angles, enhancing the customization experience. Integration with OpenAI provides advanced AI features for generating unique designs and patterns, allowing users to unleash their creativity beyond traditional customization options.
 
-Our goal is to ensure the app is accessible and easy to use across different devices, providing a hassle-free customization process for everyone.
+My goal is to ensure the app is accessible and easy to use across different devices, providing a hassle-free customization process for everyone.
 
 In summary, the 3D Swag Customization App empowers users to express themselves creatively through personalized digital swag. By combining innovative technology with user-friendly design, we set new standards in swag customization and enjoyment in the digital world.
 
@@ -84,4 +81,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-You can add this content to a `README.md` file in your GitHub repository by following the same steps as before: create or edit the file in the GitHub web interface or locally and then push the changes.
